@@ -20,7 +20,9 @@ There is a single web page that displays the abovementioned metrics / results wh
 
 # Data
 
-The dataset consists of a list of game sales greater than 100k copies. It contains game sales in different regions such as Europe, USA etc along with the game description such as name, year released, platform on which the game was released, game genre and game publishers. The video game sales dataset can be found [here](https://www.kaggle.com/datasets/gregorut/videogamesales).
+The dataset consists of a list of game sales greater than 100k copies. It contains game sales in different regions such as Europe, USA etc along with the game description such as name, year released, platform on which the game was released, game genre and game publishers.
+
+The video game sales dataset can be found [here](https://www.kaggle.com/datasets/gregorut/videogamesales).
 
 # Technical COnsiderations
 
